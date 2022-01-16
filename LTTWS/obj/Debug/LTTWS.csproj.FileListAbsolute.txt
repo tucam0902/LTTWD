@@ -1,0 +1,10 @@
+D:\DoAn\LTTWS\LTTWS\bin\Debug\LTTWS.exe
+D:\DoAn\LTTWS\LTTWS\bin\Debug\LTTWS.pdb
+D:\DoAn\LTTWS\LTTWS\bin\Debug\Guna.UI2.dll
+D:\DoAn\LTTWS\LTTWS\obj\Debug\LTTWS.csproj.AssemblyReference.cache
+D:\DoAn\LTTWS\LTTWS\obj\Debug\LTTWS.Form1.resources
+D:\DoAn\LTTWS\LTTWS\obj\Debug\LTTWS.Properties.Resources.resources
+D:\DoAn\LTTWS\LTTWS\obj\Debug\LTTWS.csproj.GenerateResource.cache
+D:\DoAn\LTTWS\LTTWS\obj\Debug\LTTWS.csproj.CoreCompileInputs.cache
+D:\DoAn\LTTWS\LTTWS\obj\Debug\LTTWS.exe
+D:\DoAn\LTTWS\LTTWS\obj\Debug\LTTWS.pdb
